@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning models**
 
-- 📚 I’m currently studying BTech in **Indian Instituite of Technology, Roorkee**
+- 📚 I’m currently pursuing BTech in **Indian Instituite of Technology, Roorkee**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fr0st-By7e](https://github.com/Fr0st-By7e)
 
